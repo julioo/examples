@@ -1,4 +1,0 @@
-pandas
-seaborn
-tensorflow==2.3.0
-wget
