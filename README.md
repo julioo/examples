@@ -18,7 +18,7 @@ This repository is home to the following types of examples and demos:
 * [Demos](#demos)
 
 ## End-to-end
-
+<!-- 
 ### [Named Entity Recognition](./named_entity_recognition)
 Author: [Sascha Heyer](https://github.com/saschaheyer)
 
@@ -63,7 +63,7 @@ This example covers the following concepts:
     1. CPU
     1. GPU
 1. Serving with Seldon Core
-1. Flask front-end
+1. Flask front-end -->
 
 ### [MNIST](./mnist)
 
@@ -75,7 +75,7 @@ This example covers the following concepts:
 1. Training automation with Argo
 1. Monitoring with Argo UI and Tensorboard
 1. Serving with Tensorflow
-
+<!-- 
 ### [Distributed Object Detection](./object_detection)
 
 Author: [Daniel Castellanos](https://github.com/ldcastell)
@@ -143,7 +143,7 @@ You can find the demos in the [`/demos` directory](demos/).
 
 | Source | Example | Description |
 | ------ | ------- | ----------- |
-| | | | |
+| | | | | -->
 
 ## Get Involved
 
